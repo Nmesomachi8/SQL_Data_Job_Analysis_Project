@@ -21,4 +21,28 @@ WHERE
 GROUP BY  
     skills
 ORDER BY demand_count DESC
-LIMIT 5
+LIMIT 5;
+
+-- RESULTS
+[
+  {
+    "skills": "sql",
+    "demand_count": "7291"
+  },
+  {
+    "skills": "excel",
+    "demand_count": "4611"
+  },
+  {
+    "skills": "python",
+    "demand_count": "4330"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "3745"
+  },
+  {
+    "skills": "power bi",
+    "demand_count": "2609"
+  }
+]

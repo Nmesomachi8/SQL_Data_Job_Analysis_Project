@@ -45,6 +45,8 @@ Pandas — appeared 3 times, confirming Python data manipulation importance.
 Excel — appeared 3 times, still relevant despite modern tools.
 Other skills like R,Snowflake,Pandas,Azure, and AWS show varying degrees of demand.
 
+-- RESULTS
+
 [
   {
     "job_id": 552322,
